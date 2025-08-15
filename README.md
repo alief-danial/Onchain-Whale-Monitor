@@ -16,7 +16,7 @@ This tool fetches on-chain transaction data, processes it into a clean format, a
   - Timestamp
   - From / To addresses
   - Transaction direction (Deposit / Withdrawal)
-  - Amount in native currency (ETH or SOL)
+  - Amount in native currency 
 - Exports data to **CSV** or **Excel** for further analysis
 - Ready-to-use for visualization in **Power BI** (e.g., inflow/outflow charts)
 
